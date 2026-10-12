@@ -1,0 +1,242 @@
+[
+  {
+    "ticker": "AAPL",
+    "name": "Apple Inc.",
+    "symbol": "AAPL.US",
+    "verified": true
+  },
+  {
+    "ticker": "ALAB",
+    "name": "Astera Labs",
+    "symbol": "ALAB.US",
+    "verified": true
+  },
+  {
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices Inc.",
+    "symbol": "AMD.US",
+    "verified": true
+  },
+  {
+    "ticker": "AMZN",
+    "name": "Amazon.com Inc.",
+    "symbol": "AMZN.US",
+    "verified": true
+  },
+  {
+    "ticker": "ANET",
+    "name": "Arista Networks",
+    "symbol": "ANET.US",
+    "verified": true
+  },
+  {
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "symbol": "APP.US",
+    "verified": true
+  },
+  {
+    "ticker": "ARM",
+    "name": "Arm Holdings",
+    "symbol": "ARM.US",
+    "verified": true
+  },
+  {
+    "ticker": "AVGO",
+    "name": "Broadcom Inc.",
+    "symbol": "AVGO.US",
+    "verified": true
+  },
+  {
+    "ticker": "BE",
+    "name": "Bloom Energy Corporation",
+    "symbol": "BE.US",
+    "verified": true
+  },
+  {
+    "ticker": "CIEN",
+    "name": "Ciena Corporation",
+    "symbol": "CIEN.US",
+    "verified": true
+  },
+  {
+    "ticker": "COHR",
+    "name": "Coherent Inc.",
+    "symbol": "COHR.US",
+    "verified": true
+  },
+  {
+    "ticker": "CRDO",
+    "name": "Credo Technology Group Holding",
+    "symbol": "CRDO.US",
+    "verified": true
+  },
+  {
+    "ticker": "CRWD",
+    "name": "CrowdStrike Holdings",
+    "symbol": "CRWD.US",
+    "verified": true
+  },
+  {
+    "ticker": "DELL",
+    "name": "Dell Technologies",
+    "symbol": "DELL.US",
+    "verified": true
+  },
+  {
+    "ticker": "GEV",
+    "name": "GE Vernova Inc.",
+    "symbol": "GEV.US",
+    "verified": true
+  },
+  {
+    "ticker": "GLW",
+    "name": "Corning Inc.",
+    "symbol": "GLW.US",
+    "verified": true
+  },
+  {
+    "ticker": "GOOGL",
+    "name": "Alphabet Inc. Class A",
+    "symbol": "GOOGL.US",
+    "verified": true
+  },
+  {
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "symbol": "HPE.US",
+    "verified": true
+  },
+  {
+    "ticker": "INTC",
+    "name": "Intel Corporation",
+    "symbol": "INTC.US",
+    "verified": true
+  },
+  {
+    "ticker": "LITE",
+    "name": "Lumentum Holdings Inc.",
+    "symbol": "LITE.US",
+    "verified": true
+  },
+  {
+    "ticker": "META",
+    "name": "Meta Platforms Inc.",
+    "symbol": "META.US",
+    "verified": true
+  },
+  {
+    "ticker": "MRVL",
+    "name": "Marvell Technology Inc.",
+    "symbol": "MRVL.US",
+    "verified": true
+  },
+  {
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "symbol": "MSFT.US",
+    "verified": true
+  },
+  {
+    "ticker": "MU",
+    "name": "Micron Technology Inc.",
+    "symbol": "MU.US",
+    "verified": true
+  },
+  {
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "symbol": "NVDA.US",
+    "verified": true
+  },
+  {
+    "ticker": "OKLO",
+    "name": "Oklo Inc.",
+    "symbol": "OKLO.US",
+    "verified": true
+  },
+  {
+    "ticker": "ORCL",
+    "name": "Oracle Corporation",
+    "symbol": "ORCL.US",
+    "verified": true
+  },
+  {
+    "ticker": "PANW",
+    "name": "Palo Alto Networks Inc.",
+    "symbol": "PANW.US",
+    "verified": true
+  },
+  {
+    "ticker": "PLTR",
+    "name": "Palantir Technologies Inc.",
+    "symbol": "PLTR.US",
+    "verified": true
+  },
+  {
+    "ticker": "POWL",
+    "name": "Powell Industries Inc.",
+    "symbol": "POWL.US",
+    "verified": true
+  },
+  {
+    "ticker": "PSTG",
+    "name": "Pure Storage",
+    "symbol": "PSTG.US",
+    "verified": true
+  },
+  {
+    "ticker": "PWR",
+    "name": "Quanta Services Inc.",
+    "symbol": "PWR.US",
+    "verified": true
+  },
+  {
+    "ticker": "QCOM",
+    "name": "QUALCOMM Incorporated",
+    "symbol": "QCOM.US",
+    "verified": true
+  },
+  {
+    "ticker": "SHOP",
+    "name": "Shopify Inc.",
+    "symbol": "SHOP.US",
+    "verified": true
+  },
+  {
+    "ticker": "SNDK",
+    "name": "SanDisk Corporation",
+    "symbol": "SNDK.US",
+    "verified": true
+  },
+  {
+    "ticker": "SNOW",
+    "name": "Snowflake Inc.",
+    "symbol": "SNOW.US",
+    "verified": true
+  },
+  {
+    "ticker": "SPCX",
+    "name": "Space Exploration Technologies",
+    "symbol": "SPCX.US",
+    "verified": false
+  },
+  {
+    "ticker": "TSLA",
+    "name": "Tesla Inc.",
+    "symbol": "TSLA.US",
+    "verified": true
+  },
+  {
+    "ticker": "TSM",
+    "name": "Taiwan Semiconductor Manufacturing",
+    "symbol": "TSM.US",
+    "verified": true
+  },
+  {
+    "ticker": "WDC",
+    "name": "Western Digital",
+    "symbol": "WDC.US",
+    "verified": true
+  }
+]

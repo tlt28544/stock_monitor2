@@ -1,0 +1,12 @@
+{
+  "DEMO_ONLY_REPLACE_WITH_TICKER": {
+    "currency": "USD",
+    "as_of": "2026-10-12",
+    "source": "Synthetic example; replace with sourced analyst assumptions",
+    "net_debt": 1000000000,
+    "diluted_shares": 1000000000,
+    "segments": [
+      {"name": "Example operating business", "metric": "Forecast revenue (USD)", "metric_value": 1000000000, "multiple": 5}
+    ]
+  }
+}
